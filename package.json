@@ -1,0 +1,11 @@
+{
+  "name": "femcompscisolutions",
+  "version": "1.0.0",
+  "description": "Sandbox for Algorithms fro the intro to comp sci class on front end masters",
+  "main": "insertion-sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
